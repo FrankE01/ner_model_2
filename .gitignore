@@ -1,0 +1,46 @@
+# created by virtualenv automatically
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+.env.*
+/Lib/
+/Scripts/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Dependency directories
+venv/
+venv*/
+pyvenv.cfg
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+# Logs and cache files
+*.log
+*.cache
+
+# Environment specific files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.pyc
+.DS_Store
+.vercel
+
+.space
